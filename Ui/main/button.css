@@ -1,0 +1,19 @@
+.nav-buttons a {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .nav-buttons a:hover {
+    background-color: #555;
+  }
+  
+  .nav-buttons a:active {
+    background-color: black;
+  }
+  
+  .nav-buttons a:visited {
+    background-color: #ccc;
+  }
