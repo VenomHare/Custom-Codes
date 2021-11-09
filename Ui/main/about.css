@@ -1,0 +1,16 @@
+.side-image 
+{
+    position: absolute;
+}
+
+.side-text
+{
+    margin: auto;
+    margin: 3em;
+}
+
+.side-text div
+{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
