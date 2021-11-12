@@ -31,6 +31,7 @@ a
     .nav-buttons
     {
         padding: 0.5em;  
+        padding-top: 0.75em;
     }
 
     .nav-buttons a 
@@ -80,4 +81,10 @@ a
     justify-content: flex-end;
     color: #7979d2;
 }
+
+.user-credits div
+{
+    color: #7979d2;    
+}
+
 
