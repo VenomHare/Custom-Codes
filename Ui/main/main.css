@@ -86,3 +86,9 @@ a
 {
     color: #7979d2;    
 }
+
+
+.song-playlist iframe
+{
+    display: flex;
+}
